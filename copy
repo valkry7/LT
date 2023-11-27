@@ -1,0 +1,15 @@
+mkdir /root/bin
+cp /usr/bin/menu /root/bin/menu.sh
+cp /usr/bin/menu-ss /root/bin/m-ss.sh
+cp /usr/bin/menu-vmess /root/bin/m-vmess.sh
+cp /usr/bin/menu-vless /root/bin/m-vless.sh
+cp /usr/bin/menu-trojan /root/bin/m-trojan.sh
+cp /usr/bin/menu-bot /root/bin/m-bot.sh
+cp /usr/bin/menu-ssh /root/bin/m-ssh.sh
+cp /usr/bin/menu-set /root/bin/m-set.sh
+cp /usr/bin/menu-theme /root/bin/m-theme.sh
+cp /usr/bin/menu-backup /root/bin/m-backup.sh
+cp /usr/bin/menu-ip /root/bin/m-ip.sh
+cp /usr/bin/autoboot /root/bin/autoboot.sh
+cp /usr/bin/menu-tor /root/bin/m-tor.sh
+cp /usr/bin/menu-tcp /root/bin/m-tcp.sh
